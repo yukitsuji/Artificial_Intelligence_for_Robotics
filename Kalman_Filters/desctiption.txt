@@ -1,0 +1,11 @@
+Kalman Filter（連続型）
+システムの状態を予測する一般的な技法
+ガウシアン分布で与えられる
+1. measurement update：Bayes Rule：product
+2. motion update：prediction：Total probability convolution
+
+モンテカルロ位置推定（離散型）に似ている
+ーヒストグラム
+
+
+多次元ガウス分布
